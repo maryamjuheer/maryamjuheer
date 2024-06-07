@@ -1,16 +1,13 @@
-### Hi there 👋
+*Hi There! Welcome to My Profile ✧.**
+--
 
-<!--
-**maryamjuheer/maryamjuheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BCompSci • Artificial Intelligence <br>
+🧠 Student Researcher • Department of Brain Sciences <br>
+🤖 LTU Robotics <br>
 
-Here are some ideas to get you started:
+Technical Languages
+Python, Java, C/C++, Javascript, Ruby 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Packages and Tools
+Matplotlib 
+
