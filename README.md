@@ -2,11 +2,6 @@
 --
 
 💻 BCompSci • Artificial Intelligence <br>
-🧠 Student Researcher • Department of Brain Sciences <br>
+📖 Currently learning: Java & C#
 
-Technical Languages <br>
-Python, Java, C#, C++, SQL
-
-Packages and Tools<br>
-Matplotlib 
 
