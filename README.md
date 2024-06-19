@@ -1,13 +1,12 @@
-*Hi There! Welcome to My Profile ✧.**
+***Hi There! Welcome to My Profile ✧.***
 --
 
 💻 BCompSci • Artificial Intelligence <br>
 🧠 Student Researcher • Department of Brain Sciences <br>
-🤖 LTU Robotics <br>
 
-Technical Languages
-Python, Java, C/C++, Javascript, Ruby 
+Technical Languages <br>
+Python, Java, C#, C++, SQL
 
-Packages and Tools
+Packages and Tools<br>
 Matplotlib 
 
