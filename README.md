@@ -2,7 +2,6 @@
 --
 
 💻 BCompSci • Artificial Intelligence <br>
+📖 Currently learning: Java & C# <br>
 👾 LTU Robotics <br>
-📖 Currently learning: Java & C#
-
 
